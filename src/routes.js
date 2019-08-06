@@ -2,7 +2,7 @@ const express = require('express');
 const DevController = require('./controllers/DevController')
 const likeController = require('./controllers/LikeController');
 const dislikeController = require('./controllers/DislikeController');
-const cors = require('cors');
+
 
 
 
